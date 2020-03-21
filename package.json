@@ -1,0 +1,25 @@
+{
+  "name": "component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "component.js",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-cssmin": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haddis69/component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haddis69/component/issues"
+  },
+  "homepage": "https://github.com/haddis69/component#readme"
+}
